@@ -41,5 +41,14 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>KAKAO_APP_KEY</key>
+	<string>9c04fcaa4b09401cbb1c2b6ec888f758</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Used to access the Image Gallery</string>
 </dict>
 </plist>
